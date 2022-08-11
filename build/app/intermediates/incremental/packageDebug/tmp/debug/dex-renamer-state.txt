@@ -1,0 +1,4 @@
+#Thu Aug 11 12:12:12 AEST 2022
+base.0=/Users/bryandorneles/Documents/GitHub/Personal-Expenses/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

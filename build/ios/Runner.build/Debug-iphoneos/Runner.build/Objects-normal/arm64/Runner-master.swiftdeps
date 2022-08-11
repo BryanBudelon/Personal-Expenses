@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "771ba61dc8176d836ef38f77c180336b7d6069f9022f0feda71b83753d684aa9"
+build_start_time: [1646220360, 403118133]
+build_end_time: [1646220361, 95449924]
+inputs:
+  "/Users/bryandorneles/Documents/GitHub/Personal-Expenses/ios/Runner/AppDelegate.swift": [1638961523, 531706333]
